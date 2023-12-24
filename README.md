@@ -1,6 +1,6 @@
 ### About me 
 
-I am ZeitounMax, I am 33 years old and I am a Web Developer. I am currently at the Wild Code School .
+I am ZeiMa, I am 33 years old and I am a Web Developer and UI/UX Designer
 I learn every day to code, and I try to give the best of myself. 
 
 ### Skills
