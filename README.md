@@ -23,7 +23,6 @@ I learn every day to code, and I try to give the best of myself.
 | WildEats|    My first project at Wild Code School, which consists of indicating the best restaurants around the training center.   |   [GitHub Repository](https://github.com/zeitounmax/Wildeats-) |
 | WildOut | WildOut is a project realized within the framework of the Wild Code School Project 2. It helps you find events in your city based on the weather. |[GitHub Repository](https://github.com/zeitounmax/WildOut)|
 | Origins Digital | Origins Digital is a project realized within the framework of the Wild Code School Project 3. It's an online video site with a connection and registration to see all the videos. |[GitHub Repository](https://github.com/zeitounmax/Project3-Origins-Digital)  |
-|PoloSport| It's an Online sport video website (OTT) with React FrameWork ,TailwindCSS and patches for Backend . It's a Project 3.5 because it's a big revision of project3 |[GitHub Repository](https://github.com/zeitounmax/PoloSport) | 
 
 ## Others Projects :  
 |  Others Projects   |      Description      |  Link |
