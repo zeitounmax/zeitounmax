@@ -1,5 +1,5 @@
 ### About me 
-![image](https://github.com/user-attachments/assets/30ad6ecc-67f9-4ce3-b4a1-3d41d2d15d0b)
+![image](https://github.com/user-attachments/assets/68f28799-1afd-4056-8673-e9be7368fcbf)
 
 Hi, I'm Zeima , I'm 34 years old, I'm a developer but also a UI-UX designer, I code often (even a lot), I do projects for clients via my account (some are private because of the sensitive nature) but also I code for fun like making scripts or ‘ShitCode’. Otherwise I'm involved in two associations, Bijou Koseki is the best Hololive and cats will rule the world soon. 
 
