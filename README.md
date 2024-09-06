@@ -49,5 +49,6 @@ Hi, I'm Zeima , I'm 34 years old, I'm a developer but also a UI-UX designer, I c
 
 - [Website](https://zeitouncode.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/maximilienthiry/)
+- [Tech Blog](https://zeitouncode-blog.vercel.app/)
 
 If you have any more questions or need further assistance, feel free to ask!
