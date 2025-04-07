@@ -1,5 +1,5 @@
 ### About me 
-![image](https://github.com/user-attachments/assets/68f28799-1afd-4056-8673-e9be7368fcbf)
+
 
 Hi, I'm Zeima , I'm 35 years old, I'm a developer but also a UI-UX designer, I code often (even a lot), I do projects for clients via my account (some are private because of the sensitive nature) but also I code for fun like making scripts or ‘ShitCode’. Otherwise I'm involved in two associations, Bijou Koseki is the best Hololive and cats will rule the world soon. 
 
@@ -31,7 +31,6 @@ Hi, I'm Zeima , I'm 35 years old, I'm a developer but also a UI-UX designer, I c
 |  Personnal Projects   |      Description      |  Link |
 |----------|:-------------:|------:|
 |ZPM (Ziema Package Manager)| A bash graphical script for install, manage Flatpak or system package|[GitHub Repository](https://github.com/zeitounmax/zpm-flatpak) |
-| La Taverne du Zeima (MyBlog) |  Just My Personnal Blog | [GitHub Repository](https://github.com/zeitounmax/my-blog) |
 | Weather-Next| A weather app make with NextJs/Typescript . |[Github Repository](https://github.com/zeitounmax/weather-Next)
 | Markdown CheetShet | Just a CheetShet basic for use Markdown Language . |[GitHub Repository](https://github.com/zeitounmax/Markdown-Cheetshet-)
 | Downmark Converter | It's a converter from Markdown to HTML and vice versa. |[GitHub Repository](https://github.com/zeitounmax/Downmark-Converter)
@@ -43,8 +42,9 @@ Hi, I'm Zeima , I'm 35 years old, I'm a developer but also a UI-UX designer, I c
 
 ## Contact Me
 
-- [Website](https://zeitouncode.vercel.app/)
+- [Website](https://zeitouncode.fr/)
 - [LinkedIn](https://www.linkedin.com/in/maximilienthiry/)
-- [Tech Blog](https://zeitouncode-blog.vercel.app/)
+- [Personnal Blog](https://zeima08.com/)
+  - [Mastodon Account](https://piaille.fr/@thirymaximilien)
 
 If you have any more questions or need further assistance, feel free to ask!
