@@ -42,6 +42,6 @@ Hi, I'm Zeima, I'm 35 years old. I'm a developer but also a UI-UX designer. I co
 - [Website](https://zeitouncode.fr/)
 - [LinkedIn](https://www.linkedin.com/in/maximilienthiry/)
 - [Personnal Blog](https://zeima08.com/)
-  - [Mastodon Account](https://piaille.fr/@thirymaximilien)
+- [Mastodon Account](https://piaille.fr/@thirymaximilien)
 
 If you have any more questions or need further assistance, feel free to ask!
