@@ -61,3 +61,9 @@ When I’m not coding, I’m out in the garden or behind a camera lens 📸🌱
 
 > _ :lotus:"*"Let go of what has passed, let go of what may come, let go of what is happening now. Don't try to figure anything out. Don't try to make anything happen. Relax, right now, and rest.*" :lotus:
 > Tilopa
+>
+# About Iptv-JP :
+Please don't use my fork, it's just only for me Please visit the original Repository of Luongz. Thank you ! 
+[Github](https://github.com/luongz/iptv-jp) 
+
+Thank you
