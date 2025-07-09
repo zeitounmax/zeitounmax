@@ -26,7 +26,7 @@ When I’m not coding, I’m out in the garden or behind a camera lens 📸🌱
 | Name               | Description                                                               | Link                                                                 |
 |--------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------|
 | **Athena Yearbooks** | A yearbook project built during a mini-training in December             | [🔗 GitHub](https://github.com/zeitounmax/athena)                    |
-| **WildOut**        | Find events in your city based on the weather (Weather + Events API)      | [🔗 GitHub](https://github.com/zeitounmax/WildOut)                   |
+| **WildOut**        | Find events in your city based on the weather (Weather + Events API)      | [🔗 GitHub](https://github.com/zeitounmax/WCSReims2023-Pro2-wild-out)                   |
 | **Origins Digital** | Online video platform with registration/login system                     | [🔗 GitHub](https://github.com/zeitounmax/Project3-Origins-Digital)  |
 
 ### 🔧 Personal Projects
