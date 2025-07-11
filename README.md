@@ -57,7 +57,7 @@ When I’m not coding, I’m out in the garden or behind a camera lens 📸🌱
 - ✍️ [Blog](https://zeima08.com/)
 - 🐘 [Mastodon](https://piaille.fr/@thirymaximilien)
 - 📧 [Mail Proton](mailto:maximilien.thiry@protonmail.com)
-- 📧 [Mail Tuta](mailto:maximilien.thiry@tuta.io)
+- 📧 [Mail Pro](mailto:bonjour.zeitouncode@zeima.fr)
 - 📲 [Signal](https://signal.me/#eu/Q95OzAsHMR4Q0yzZu08xYFDKXfn)
 
 ---
