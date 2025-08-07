@@ -67,8 +67,7 @@ When I’m not coding, I’m out in the garden or behind a camera lens 📸🌱
 
 ---
 
-## 🛰️ About Iptv-JP
+## 🛰️ About Fork
+If you are looking in my repository, you can find Fork. 
+It's normal; I fork to not search a repository I love. But I can't work to push with these. If you want to discover projects, please visit the original authors.
 
-Please don't use my fork, it's just only for me.  
-Please visit the original Repository by Luongz.  
-👉 [Original Repo](https://github.com/luongz/iptv-jp)
