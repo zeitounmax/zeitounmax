@@ -53,7 +53,7 @@ When I’m not coding, I’m out in the garden or behind a camera lens 📸🌱
 ## 📬 Contact
 
 - 🌐 [zeitouncode.fr](https://zeitouncode.fr/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/maximilienthiry/)
+- 💼 [LinkedIn](Disconnected)
 - ✍️ [Blog](https://zeima08.com/)
 - 🐘 [Mastodon](https://piaille.fr/@thirymaximilien)
 - 📧 [Mail Proton](mailto:maximilien.thiry@protonmail.com)
