@@ -10,7 +10,7 @@ When I’m not coding, I’m out in the garden or behind a camera lens 📸🌱
 
 | Category             | Tools & Technologies |
 |----------------------|----------------------|
-| **Operating System** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-1793D1?style=for-the-badge&logo=ubuntu-linux&logoColor=white) |
+| **Operating System** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)) |
 | **Languages**        | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=blue) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
 | **Frameworks & Tools** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%2320232a.svg?style=for-the-badge&logo=astro&logoColor=purple) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-%2320232a.svg?style=for-the-badge&logo=prisma&logoColor=%2361DAFB) |
 | **Design**           | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Penpot](https://img.shields.io/badge/penpot-%23F24E1E.svg?style=for-the-badge&logo=penpot&logoColor=white) |
@@ -56,8 +56,8 @@ When I’m not coding, I’m out in the garden or behind a camera lens 📸🌱
 - 💼 [LinkedIn](Disconnected)
 - ✍️ [Blog](https://zeima08.com/)
 - 🐘 [Mastodon](https://piaille.fr/@thirymaximilien)
-- 📧 [Mail Proton](mailto:maximilien.thiry@protonmail.com)
-- 📧 [Mail Pro](mailto:bonjour.zeitouncode@zeima.fr)
+- 📧 [Mail Proton](mailto:maximilien.thiry@tuta.io)
+- 📧 [Mail Pro](mailto:maximilien.thiry@tuta.io)
 - 📲 [Signal](https://signal.me/#eu/Q95OzAsHMR4Q0yzZu08xYFDKXfn)
 
 ---
